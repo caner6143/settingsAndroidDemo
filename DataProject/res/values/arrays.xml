@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ulkeler">
+        <item>Türkiye</item>
+        <item>Almanya</item>
+        <item>Ingiltere</item>
+        <item>Mısır</item>
+        <item>Azerbaycan</item>
+        <item>Suriye</item>
+        <item>Filistin</item>
+        <item>Belçika</item>
+        <item>Hollanda</item>
+        <item>Fiji Adaları</item>
+        <item>Bulgaristan</item>
+        <item>Çin</item>
+        <item>Portekiz</item>
+    </string-array>
+</resources>
