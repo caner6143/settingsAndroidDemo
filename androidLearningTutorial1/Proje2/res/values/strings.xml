@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Proje2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_sub">SubActivity</string>
+    <string name="sf_subactivity">Sub Activity Çağır</string>
+    <string name="tx_soru">Bir Soru Sor?</string>
+    <string name="sf_subactivity_cevap">Sub Activity Sorgula</string>
+    <string name="title_activity_intent">Intent</string>
+    <string name="tx_intents_baslik">Intents</string>
+    <string name="sf_intents_telefon">Telefon Numarasını Ara</string>
+
+</resources>
