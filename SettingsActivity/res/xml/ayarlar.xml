@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory 
+        android:title="Genel Ayarlar">
+        <EditTextPreference android:title="Kullanici Genel Ayarlar"
+            android:key="kullanici"
+            android:defaultValue=""/>
+    </PreferenceCategory>
+
+    <PreferenceCategory 
+        android:title="Özel Ayarlar">
+        <ListPreference android:title="En Sevilen Renk"
+            android:key="sevilenrenk"
+            android:entries="@array/ensevilenrenk"
+            android:entryValues="@array/ensevilenrenkdegeri"/>
+        
+        <ListPreference android:title="Durum"
+            android:key="durum"
+            android:entries="@array/durum"
+            android:entryValues="@array/durum"/>
+    </PreferenceCategory>
+    
+</PreferenceScreen>

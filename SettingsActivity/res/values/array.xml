@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ensevilenrenk">
+        <item>kırmızı</item>
+        <item>turuncu</item>
+        <item>sarı</item>
+        <item>yeşil</item>
+        <item>mavi</item>
+        <item>viyolet</item>
+        <item>renksiz</item>
+        <item>hepsi</item>
+    </string-array>
+    
+    <string-array name="ensevilenrenkdegeri">
+        <item>#C00</item>
+        <item>#FC9</item>
+        <item>#FF0</item>
+        <item>#0C0</item>
+        <item>#00C</item>
+        <item>#C0C</item>
+        <item>#000</item>
+        <item>#FFF</item>
+    </string-array>
+    
+    <string-array name="durum">
+        <item>:-D</item>
+        <item>:-)</item>
+        <item>:-|</item>
+        <item>:-(</item>
+        <item>:\'-(</item>
+    </string-array>
+</resources>
